@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\bin\Debug\Vivacity Whisper.exe
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\bin\Debug\Vivacity Whisper.pdb
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\bin\Debug\Vivacity Whisper.xml
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\obj\x86\Debug\Vivacity_Whisper.Form1.resources
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\obj\x86\Debug\Vivacity_Whisper.Resources.resources
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\obj\x86\Debug\Vivacity Whisper.vbproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\obj\x86\Debug\Vivacity Whisper.exe
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\obj\x86\Debug\Vivacity Whisper.xml
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\obj\x86\Debug\Vivacity Whisper.pdb
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\Vivacity Whisper\Vivacity Whisper\bin\Debug\Vivacity Whisper.exe.config
